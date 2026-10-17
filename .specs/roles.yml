@@ -1,0 +1,7 @@
+"approvals-required": 1
+"approvers":
+- "bengal"
+- "pfeifferj"
+"implementation-repos":
+- "netfyr/tui"
+"specs-dir": "specs"
