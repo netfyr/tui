@@ -1,7 +1,21 @@
-"approvals-required": 1
+# Generated from https://github.com/netfyr/infra/blob/main/terraform/github-org/governance.auto.tfvars.json
 "approvers":
-- "bengal"
-- "pfeifferj"
+- "id": "110632"
+  "login": "bengal"
+- "id": "22047071"
+  "login": "pfeifferj"
+"approvals-required": 1
 "implementation-repos":
 - "netfyr/tui"
 "specs-dir": "specs"
+"authors":
+- "id": "110632"
+  "login": "bengal"
+- "id": "22047071"
+  "login": "pfeifferj"
+- "id": "109564679"
+  "login": "rajeshrah22"
+- "id": "48308451"
+  "login": "smyle10"
+- "id": "197720"
+  "login": "tyll"
